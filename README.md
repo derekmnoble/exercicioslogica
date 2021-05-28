@@ -1,6 +1,6 @@
-# Exercícios das aulas de lógica de programação
+# Exercícios em C++
 
-Exercícios de estruturas de repetição, vetores e matrizes
+Mini projetos criados em aula.
 
 # Sugestões
 
