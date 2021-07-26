@@ -1,7 +1,3 @@
-# Exercícios em C++
+# Exercícios em C, C++, C# e Java
 
-Mini projetos criados em aula.
-
-# Sugestões
-
-São sempre bem-vindas!
+Algoritmos simples criados para praticar
